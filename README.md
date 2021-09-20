@@ -1,0 +1,2 @@
+# EpisoPass-core
+Episopassのパスワード生成機能をlibrary化したやつ
