@@ -4,8 +4,6 @@
 // Last Modified: 2019/12/27
 //
 
-/// <reference no-default-lib="true"/>
-/// <reference lib="esnext" />
 import { createHash } from "https://deno.land/std@0.103.0/hash/mod.ts";
 
 /** 問題と回答候補のペア */
